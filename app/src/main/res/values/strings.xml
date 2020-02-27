@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Accprone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">IeyJtmq9k6FdbsN8eJj1DbbPpYpNddk1M4MG6UEB</string>
+    <string name="back4app_client_key">4JnhaxTysbyAH79bYW9eLl7g7UPyIO7Mdaut4rQT</string>
+</resources>
